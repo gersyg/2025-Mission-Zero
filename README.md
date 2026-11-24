@@ -1,6 +1,6 @@
 #  Astro Pi: Mission Zero (2024–2025)
 
-This is the code written by **Georgios** and **Nikolaos** (**Team `nickgeo`**) from **Griechisches Gymnasium - Lyzeum Bielefeld** for the European Astro Pi Challenge: **Mission Zero (2024–2025)**.
+This is the code written by **Georgios(me)** and **Nikolaos** (**Team `nickgeo`**) from **Griechisches Gymnasium - Lyzeum Bielefeld** for the European Astro Pi Challenge: **Mission Zero (2024–2025)**.
 
 Astro Pi is an educational project run by the **Raspberry Pi Foundation** in collaboration with the **European Space Agency (ESA)**, giving students the opportunity to write Python code that runs on Raspberry Pi computers aboard the International Space Station (ISS).
 
